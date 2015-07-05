@@ -12,5 +12,3 @@ You need ...
 * and polyfill / polyester fiberfill (german: Füllwatte).
 
 For detailed instructions read the [wiki](http://github.com/philenius/MiniWolke/wiki).
-
-/play sexyback
